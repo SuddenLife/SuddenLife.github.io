@@ -1,1 +1,1 @@
-# suddenlife_site
+# SuddenLife.github.io
